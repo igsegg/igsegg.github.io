@@ -28,8 +28,8 @@ github_username:  igsegg
 
 # Build settings
 #theme: jekyll-theme-primer
-#remote_theme: broccolini/swiss
-theme: minima
+remote_theme: broccolini/swiss
+#theme: minima
 plugins:
   - jekyll-feed
 theme_color: blue
