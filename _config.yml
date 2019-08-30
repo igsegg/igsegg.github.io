@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Early Career Glaciologists Group (EGG)
-subtitle: International Glaciological Society (IGS)
+title: IGS EGG
 email: douglas1.brinkerhoff@umontana.edu
-description: The website for IGS EGG
+description:  The Early-career Glaciologists Group (EGG) of the International Glaciological Society (IGS).  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "igsegg.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: igsegg
+github_username:  igsegg
 
 # Build settings
 #theme: jekyll-theme-primer
