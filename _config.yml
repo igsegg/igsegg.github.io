@@ -23,7 +23,7 @@ email: douglas1.brinkerhoff@umontana.edu
 description:  The Early-career Glaciologists Group (EGG) of the International Glaciological Society (IGS).  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: igsegg
+twitter_username: IgsEgg
 github_username:  igsegg
 
 # Build settings
