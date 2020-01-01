@@ -5,4 +5,6 @@
 layout: home
 title: IGS EGG
 ---
+![Egg Logo](/assets/images/logo.png)
+
 
