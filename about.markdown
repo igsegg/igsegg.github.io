@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![A picture](assets/images/glacier_splash.jpg){:class="img-responsive"}
 
-Welcome to the Early-Career Glaciology Group (EGG) within the IGS
+## Welcome to the Early-Career Glaciology Group (EGG) within the IGS
 
 The EGG is open to any ECS (Early-Career Scientist) in glaciology or related snow and ice sciences. Our aims are to enhance the cryosphere ECS community (socially and professionally), particularly within the IGS, and to provide additional support to ECS in cryosphere-related fields. 
 
@@ -17,7 +17,7 @@ We’re happy for anyone self-identifying as early career to get involved. We do
 
 ## Mailing list and Twitter:
 
-We will post information about upcoming events and opportunities on Twitter through @igsegg, and if you would like to receive emails about news and upcoming events please sign up [here](www.igsegg.org/join).
+We will post information about upcoming events and opportunities on Twitter through @igsegg, and if you would like to receive emails about news and upcoming events please sign up [here](../join).
 
 Let us know if you have any comments or ideas for events!
 
