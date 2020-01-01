@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Egg has a new logo!"
+date:   2020-01-01 12:24:50 -0600
+---
+
+![A picture](assets/images/logo.pdf){:class="img-responsive"}
+
+IGS EGG has a new logo!  Penguins, like early-career glaciologists, inhabit cold places and are concerned with ice.  
