@@ -4,7 +4,6 @@ title:  "Natural social distancing"
 date:   2020-04-15 12:00:00 -0600
 ---
 
-
 **Natural social distancing – my first field season in Antarctica**
 
 Rebecca Schlegel
@@ -31,23 +30,23 @@ After just the two of us have been in the field, isolated from anyone and anythi
 
 The experience of this season, including the social distancing, was one of the most challenging but also one of the most amazing experiences of my life. I am looking forward to much more field seasons to come, and even more excited about the data that will be collected!
 
-![](assets/schlegel_blog_post/image_1.jpeg)
+![](assets/schlegel_blog_post/image1.jpeg)
 
 View onto the Ellsworth mountains with our campsite in the foreground
 
-![](assets/schlegel_blog_post/image_2.jpeg)
+![](assets/schlegel_blog_post/image2.jpeg)
 
 Our daily routine, driving the skidoo, towing a radio-echo sounder to collect data of the bed topography. The 3 sledges that are towed include different parts of equipment. Straight lines in the snow are from the data acquisition. The crevasses in the background are in the area of the shear margins.
 
-![](assets/schlegel_blog_post/image_3.jpeg)
+![](assets/schlegel_blog_post/image3.jpeg)
 
 Lunchbreak with a cup of tea and some cheese and biscuits.
 
-![](assets/schlegel_blog_post/image_4.jpeg)
+![](assets/schlegel_blog_post/image4.jpeg)
 
 Our campsite, with the sleeping tent, with many boxes of food, spares, clothes and equipment arranged around the tent.
 
-![](assets/schlegel_blog_post/image_5.jpeg)
+![](assets/schlegel_blog_post/image5.jpeg)
 
 Rebecca Schlegel
 
