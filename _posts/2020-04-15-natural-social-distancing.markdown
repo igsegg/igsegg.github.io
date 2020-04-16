@@ -50,6 +50,6 @@ Our campsite, with the sleeping tent, with many boxes of food, spares, clothes a
 
 Rebecca Schlegel
 
-PhD student at Swansea University
+PhD student at Swansea University as part of the BEAMISH project working on ice stream dynamics and beds
 
 Part of the EGG committee
