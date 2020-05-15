@@ -8,8 +8,8 @@ date:   2020-05-15 12:00:00 -0600
 
 **Emma Pearce, PhD student at The University of Leeds**
 
-![](/assets/images/pearce_blog_post/image1.jpeg){width="8.315972222222221in"
-height="3.5159667541557305in"}
+![](/assets/images/pearce_blog_post/image1.jpeg)
+
 For those of you who have seen Star Wars
 Episode V, the Empire Strikes Back, you might recognise Hardagerjøkulen
 (Hardanger) ice cap as the sixth planet in the remote solar system,
@@ -36,8 +36,7 @@ funding scheme, meaning I could apply for funding to visit it.
 denser and turns into ice) – the thing that I was wanting to study using
 geophysics.
 
-![](/assets/images/pearce_blog_post/image3.jpeg){width="8.24236111111111in"
-height="3.6020833333333333in"}
+![](/assets/images/pearce_blog_post/image3.jpeg)
 
 These three reasons combined meant not only was I able to apply for
 funding to support my trip to Norway, (a BIG thank you to EU Interact)
@@ -50,22 +49,25 @@ where I would scope out the best places on the ice cap for my research
 where there was known firn coverage, and do some test surveys, and the
 second a year later in 2019, where I would collect my final dataset.  
 
-![](/assets/images/pearce_blog_post/image4.jpeg){width="3.634027777777778in"
-height="2.7256944444444446in"}
+![](/assets/images/pearce_blog_post/image4.jpeg)
 
 **Season 1, 2018:**
 
 We packed up all our equipment in the UK and got it sent by cargo ferry
 to Norway. Here we picked it up and then had to attempt to 'sneak' the
 equipment onto the national Norwegian passenger
-train.![](/assets/images/pearce_blog_post/image5.jpeg){width="2.8868055555555556in"
-height="3.609027777777778in"} Luckily for us, we had a few locals
+train.
+
+![](/assets/images/pearce_blog_post/image5.jpeg)
+
+Luckily for us, we had a few locals
 travelling with us up to Finse, who was able to help us sweet talk the
 conductors and fortunately, our five, 70kg boxes were allowed onto the
 train, but they did get a few funny looks.
 
-![](/assets/images/pearce_blog_post/image5.jpeg){width="2.8868055555555556in"
-height="3.68419072615923in"}Once we arrived at Finse, transportation of
+![](/assets/images/pearce_blog_post/image5.jpeg)
+
+Once we arrived at Finse, transportation of
 the equipment became a bit easier, we could just pop all the cargo
 (including PhD students!) into the sledges, and skidoo ourselves around.
 It was April when we visited Hardanger, the perfect time between the
@@ -82,11 +84,11 @@ Of course, this all went perfectly to plan, we were done by the first
 week, and then had a week to relax, enjoy the scenery, and get some
 sledging in…. or.. not.
 
-![](/assets/images/pearce_blog_post/image7.jpeg){width="8.334722222222222in"
-height="3.7589566929133857in"}
+![](/assets/images/pearce_blog_post/image7.jpeg)
 
-![](/assets/images/pearce_blog_post/image9.jpeg){width="3.129861111111111in"
-height="3.7683016185476816in"}Things you quickly learn as a field
+![](/assets/images/pearce_blog_post/image9.jpeg)
+
+Things you quickly learn as a field
 geophysicist are that fieldwork never quite goes to plan. Equipment
 breaks, (thank you SD cards), you bring spares of everything except the
 one thing you think won't break, (thank you ground penetrating radar),
@@ -99,8 +101,9 @@ overcast is the assumed weather. Luckily, all we needed were 3 good days
 out of 14 to get my test data, and as you can tell from the above
 picture, the sun gods looked on us fondly to provide those 3 days!
 
-![](/assets/images/pearce_blog_post/image11.jpeg){width="3.0832709973753283in"
-height="3.3103576115485565in"}Once we had hauled all the equipment onto
+![](/assets/images/pearce_blog_post/image11.jpeg)
+
+Once we had hauled all the equipment onto
 the glacier, it was time to start surveying. It begins by a lot of
 walking, laying down seismic cables, and burying in geophones. Once this
 is done, you can connect to the computer, where you inevitably see that
@@ -121,13 +124,13 @@ We celebrated the traditional Norwegian way, with Aquavit and Gamalost
 our field guide on the ice cap. You might be able to tell from our
 tentative expressions, it is definitely an acquired taste! 
 
-![](/assets/images/pearce_blog_post/image13.jpeg){width="8.652777777777779in"
-height="4.122916666666667in"}
+![](/assets/images/pearce_blog_post/image13.jpeg)
 
 **Season 2, 2019: **
 
-![](/assets/images/pearce_blog_post/image15.jpeg){width="8.261111111111111in"
-height="3.5340277777777778in"}We were heading back to Hardanger in April
+![](/assets/images/pearce_blog_post/image15.jpeg)
+
+We were heading back to Hardanger in April
 2019, only this year with more equipment (we were going to drill a
 borehole on the top of the glacier!), more data aims, more time, and
 more people! We had aimed for the same time of year as it had worked
@@ -137,8 +140,9 @@ and headed to Finse. It was at this point we started to worry a little
 as we looked out the train window, we were seeing a lot of green and a
 lot of water, but fortunately no trolls.
 
-![](/assets/images/pearce_blog_post/image17.jpeg){width="3.2583333333333333in"
-height="4.377777777777778in"}With the warm weather at the front of our
+![](/assets/images/pearce_blog_post/image17.jpeg)
+
+With the warm weather at the front of our
 minds, the lake which we had to cross to get to the glacier was melting
 more and more each day, and the warm weather meaning our route to the
 ice cap was becoming more rocky and grassy rather than snow, time was of
@@ -166,8 +170,9 @@ needed a minimum of two sunny (but cold) days to get the data I needed
 from the ice cap, and whilst keeping an eye on the weather every day,
 waiting for the cold, (yet sunny) spell to hit, on day 7, they arrived.
 
-![](/assets/images/pearce_blog_post/image19.jpeg){width="4.541666666666667in"
-height="3.0388888888888888in"}With the sledge packed as light as
+![](/assets/images/pearce_blog_post/image19.jpeg)
+
+With the sledge packed as light as
 possible, and some ferrying of equipment and people done (and only one
 very stuck skidoo hiccup later), using the GPS coordinates from the
 previous year, we got back to my field site. At this point, we hit the
@@ -193,8 +198,9 @@ density variations in the top 2m of the site, (we were also able to use
 the blocks of snow dug out to make a really great igloo, but that’s
 beyond the point!)
 
-![](/assets/images/pearce_blog_post/image21.jpeg){width="3.216666666666667in"
-height="4.020138888888889in"}With our original aim of 30m deep scaled
+![](/assets/images/pearce_blog_post/image21.jpeg)
+
+With our original aim of 30m deep scaled
 back to 10m, we spent the rest of the day taking shifts at hand drilling
 into the ice, we reached a depth of 11m, and called it a success! With a
 few bits of glacier ice collected to take home to have in some gin and
@@ -237,7 +243,6 @@ biggest thank you to Marits, for all the amazing food she cooked to keep
 us sustained each day! And finally, thank you to the INTERACT team for
 funding this fieldwork.  
 
-![](/assets/images/pearce_blog_post/image23.jpeg){width="8.262818241469816in"
-height="3.8895833333333334in"}
+![](/assets/images/pearce_blog_post/image23.jpeg)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
