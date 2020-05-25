@@ -65,7 +65,7 @@ travelling with us up to Finse, who was able to help us sweet talk the
 conductors and fortunately, our five, 70kg boxes were allowed onto the
 train, but they did get a few funny looks.
 
-![](/assets/images/pearce_blog_post/image5.jpeg)
+![](/assets/images/pearce_blog_post/image6.jpeg)
 
 Once we arrived at Finse, transportation of
 the equipment became a bit easier, we could just pop all the cargo
