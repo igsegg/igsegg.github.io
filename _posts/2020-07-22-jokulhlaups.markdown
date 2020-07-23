@@ -116,7 +116,7 @@ responses to outburst events.
 About me
 --------
 
-![](assets/images/thomas_blog_post/image1.jpeg)
+![](/assets/images/thomas_blog_post/image1.jpeg)
 Picture – Myself (right) and a friend on a recent research trip to
 Iceland. The picture was taken at Heinabergsjökull, Iceland.
 
