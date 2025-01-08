@@ -1,3 +1,0 @@
-* igsegg.github.io
-
-Files to build [[https://igsegg.org/][https://igsegg.org/]] 
