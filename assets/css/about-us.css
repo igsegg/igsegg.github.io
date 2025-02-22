@@ -1,0 +1,118 @@
+.about-us-block1 {
+  background-image: url("../images/mbr-1920x1285.jpg");
+}
+@media (max-width: 991px) {
+  .about-us-blokc1 .mbr-section-title,
+  .about-us-block1 .mbr-section-subtitle,
+  .about-us-block1 .mbr-section-btn,
+  .about-us-block1 .mbr-text {
+    text-align: center;
+  }
+}
+
+.about-us-block2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.about-us-block2 ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.about-us-block2 li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.about-us-block2 ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+
+.about-us-team-block {
+  background-image: url("../images/mbr-1920x1280.jpg");
+}
+.about-us-team-block .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.about-us-team-block .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.about-us-team-block .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+
+
+.about-us-member-block {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #fafafa;
+}
+.about-us-member-block .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.about-us-member-block .card-wrapper {
+  background-color: #fafafa;
+  border-radius: 4px;
+}
+.about-us-member-block .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.about-us-member-block .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.about-us-member-block .social-row .soc-item .mbr-iconfont {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+  transition: all 0.3s;
+}
+.about-us-member-block .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.about-us-member-block .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .about-us-member-block .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .about-us-member-block .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .about-us-member-block .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.about-us-member-block .card-title {
+  color: #2299aa;
+}
