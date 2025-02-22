@@ -1,0 +1,27 @@
+
+.block-404 {
+  background-image: url("../../assets/images/homepage-image.jpg");
+}
+.block-404 .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.block-404 .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+
+.block-404 .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.block-404 .mbr-section-title {
+  color: #232323;
+}
+
