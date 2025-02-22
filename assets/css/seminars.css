@@ -1,0 +1,74 @@
+.seminar-block1 {
+  display: flex;
+  background-image: url("../images/mbr-1920x637.jpg");
+}
+.seminar-block1 .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
+}
+.seminar-block1 .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .seminar-block1 {
+    align-items: flex-start;
+  }
+  .seminar-block1 .row {
+    justify-content: center;
+  }
+  .seminar-block1 .content-wrap {
+    width: 49%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .seminar-block1 .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .seminar-block1 {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .seminar-block1 .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .seminar-block1 .content-wrap {
+    width: 100%;
+  }
+}
+.seminar-block1 .mbr-text,
+.seminar-block1 .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.seminar-block1 .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+
+.seminar-video-block {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.seminar-video-block .row {
+  flex-direction: row-reverse;
+}
+.seminar-video-block .video-wrapper iframe {
+  width: 100%;
+}
+.seminar-video-block .mbr-section-title,
+.seminar-video-block .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .seminar-video-block .text-wrapper {
+    padding: 2rem;
+  }
+}
+.seminar-video-block .mbr-text {
+  color: #424a4d;
+  text-align: center;
+}

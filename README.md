@@ -2,3 +2,7 @@
 This repository store the files used to build the [igsegg](https://igsegg.org/) page.
 
 Any recommendation or comment to egg[@]igsoc.org, with a "Web Page" subject.
+
+
+# How to edit the code
+WIP
