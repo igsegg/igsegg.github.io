@@ -1,0 +1,18 @@
+.open-position-block {
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-color: #E4F0FF;
+}
+@media (max-width: 991px) {
+  .open-position-block .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.open-position-block img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .open-position-block .text-wrapper {
+    padding: 2rem;
+  }
+}
