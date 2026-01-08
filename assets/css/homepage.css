@@ -1,5 +1,6 @@
 .homepage-block1 {
-  background-image: url("../../assets/images/homepage-image.jpg");
+  /*background-image: url("../../assets/images/homepage-image.jpg");*/
+  background-image: url("../../assets/images/coyhaique.jpg");
 }
 .homepage-block1 .social-row .soc-item {
   display: inline-block;
