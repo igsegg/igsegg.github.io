@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
         <link rel="shortcut icon" href="assets/images/logo-420x549.png" type="image/x-icon"/>
         <meta name="description" content="" />
+        <script type="text/javascript" src="assets/leaflet/countries.js"></script>
 
         <title>Home</title>
         <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css"/>
@@ -33,6 +34,11 @@
         <link rel="stylesheet" href="assets/css/mbr-additional.css" type="text/css"/>
         <link rel="stylesheet" href="assets/css/navbar.css" type="text/css"/>
         <link rel="stylesheet" href="assets/css/homepage.css" type="text/css"/>
+        <link rel="stylesheet" href="assets/leaflet/leaflet.css" />
+        <script src="assets/leaflet/leaflet.js"></script>
+        <style>
+	    #map { height: 600px; width:600px }
+        </style>
     </head>
     <body>
         <section
@@ -239,6 +245,45 @@
             </div>
         </section><br />
 
+        <section class="content4 homepage-block3" id="content4-3p">
+            <div class="container">
+                <div class="mbr-section-head">
+                    <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-1">
+                        <strong>Members map</strong>
+                    </h4>
+                </div>
+                <div class="row align-items-center">
+                    <div id="map" style="height:600px; width:100%"></div>
+                </div>
+            </div>
+        <script>
+
+	    const map = L.map('map').setView([20, 0], 2);
+
+	    map.createPane('labels');
+	    map.getPane('labels').style.zIndex = 650;
+	    map.getPane('labels').style.pointerEvents = 'none';
+
+	    const cartodbAttribution = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attribution">CARTO</a>';
+
+	    const positron = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
+		attribution: cartodbAttribution
+	    }).addTo(map);
+
+	    const positronLabels = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
+	    	attribution: cartodbAttribution,
+                pane: 'labels'
+	    }).addTo(map);
+
+	    const geojson = L.geoJson(euCountries).addTo(map);
+
+	    geojson.eachLayer((layer) => {
+		layer.bindPopup(layer.feature.properties.name);
+            });
+        </script>
+        </section><br />
+
+
         <section
             class="content4 homepage-block3 mbr-parallax-background"
             id="content4-3p"
@@ -270,7 +315,7 @@
                     </div>
                 </div>
             </div>
-        <section>
+        </section>
 
         <section
             class="display-7"
