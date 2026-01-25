@@ -249,7 +249,7 @@
             <div class="container">
                 <div class="mbr-section-head">
                     <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-1">
-                        <strong>Members map</strong>
+                        <strong>Council member representation</strong>
                     </h4>
                 </div>
                 <div class="row align-items-center">
@@ -270,7 +270,7 @@
 		attribution: cartodbAttribution
 	    }).addTo(map);
 
-	    const positronLabels = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
+	    const positronLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
 	    	attribution: cartodbAttribution,
                 pane: 'labels'
 	    }).addTo(map);
@@ -278,7 +278,7 @@
 	    const geojson = L.geoJson(euCountries).addTo(map);
 
 	    geojson.eachLayer((layer) => {
-		layer.bindPopup(layer.feature.properties.name);
+		layer.bindPopup(country_members[layer.feature.properties.name]);
             });
         </script>
         </section><br />

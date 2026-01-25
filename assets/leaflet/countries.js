@@ -11,4 +11,11 @@ var euCountries = {"type":"FeatureCollection","features":[ //canada, inglaterra,
 ]}
 
 
-var country_members = {}
+var country_members = {
+	"Chile": "Javier Norambuena",
+	"Australia": "Tirthankar Ghosh",
+	"Canada": "Brittany Main, Peter Wray",
+	"Japan": "Pia Ataka",
+	"United Kingdom": "Harley R. McCourt, Sharman Jones, Nathaniel Baurley, Tomos Morgan, Emily Adams",
+	"United States of America": "Michael Shahin",
+}
